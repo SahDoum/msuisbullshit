@@ -17,7 +17,7 @@ function MyPixelBot() {
 
   MyPixelBot.url = {
     script: 'https://github.com/askesis/bot/raw/master/botForMSU.user.js',
-    image: 'https://i.imgur.com/Q09n7WW.png',
+    image: 'https://raw.githubusercontent.com/SahDoum/msuisbullshit/master/masked_msu_rainbow.png',
   };
 
   MyPixelBot.refreshTime = 300;
