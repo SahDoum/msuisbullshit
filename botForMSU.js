@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Pixel Bot MSU
 // @namespace    http://tampermonkey.net/
-// @version      2.1
+// @version      0.8.0
 // @description  try to take over the world!
 // @author       asketes
 // @match        https://pixel.vkforms.ru/*
-// @downloadURL  https://raw.githubusercontent.com/askesis/bot/master/botForMSU.js
-// @updateURL    https://raw.githubusercontent.com/askesis/bot/master/botForMSU.js
+// @downloadURL  https://github.com/askesis/bot/blob/master/botForMSU.js
+// @updateURL    https://github.com/askesis/bot/blob/master/botForMSU.js
 // @grant        none
 // ==/UserScript==
 
@@ -16,7 +16,7 @@ function MyPixelBot() {
   window.MyPixelBot = MyPixelBot;
 
   MyPixelBot.url = {
-    script: 'https://raw.githubusercontent.com/askesis/bot/master/botForMSU.js',
+    script: 'https://github.com/askesis/bot/blob/master/botForMSU.js',
     image: 'https://i.imgur.com/zzvUI5Y.png',
   };
 
