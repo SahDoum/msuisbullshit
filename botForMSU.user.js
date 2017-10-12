@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pixel Bot MSU
 // @namespace    http://tampermonkey.net/
-// @version      0.8.3
+// @version      0.9.0
 // @description  try to take over the world!
 // @author       asketes
 // @match        https://pixel.vkforms.ru/*
